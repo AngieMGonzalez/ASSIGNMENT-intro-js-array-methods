@@ -108,3 +108,5 @@ export const referenceList = [
     inCart: false
   },
 ];
+
+//to access a property/element inside of an object, use dot notation or bracket notation
